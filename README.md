@@ -32,3 +32,5 @@ The UC San Diego Soccer coaches want a better tool to assess and communicate pla
 
 1. Analyze player distribution impact on game play / success
 2. Predict how specific types of interactions during game play leads to key events (i.e. middle 3rd turnover with pressing midfield)
+
+![Example Soccer Viz](https://user-images.githubusercontent.com/53804961/114941196-b0957580-9df7-11eb-9273-ff4d361e8df7.png)
